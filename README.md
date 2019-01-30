@@ -4,7 +4,8 @@
 
 [This is my link](http://alannarisse.com)
 
-```function myFunc(){
+```
+function myFunc(){
     return "hi there";
 }
 ```
